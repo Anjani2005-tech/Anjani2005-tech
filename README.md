@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **imanjanikumar01@gmail.com** For Collaboration/Project or 
 
 ## 🔗 I am a ECE Engineer. 😊😊
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pr.em_raj_143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaranjani8037@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pr.em_raj_143) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imanjanikumar01@gmail.com) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anjani2005-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
