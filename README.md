@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Anjani Kumar
 **A passionate VLSI Engineer**
 
-Email Me 👉 ✉️ **kumaranjani8037@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **imanjanikumar01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
